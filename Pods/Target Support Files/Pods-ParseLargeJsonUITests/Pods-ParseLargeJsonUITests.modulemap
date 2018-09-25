@@ -1,0 +1,6 @@
+framework module Pods_ParseLargeJsonUITests {
+  umbrella header "Pods-ParseLargeJsonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
